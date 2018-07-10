@@ -3,7 +3,7 @@
     "name": "Michael Benford",
     "email": "michael@michaelbenford.net"
   },
-  "name": "ng-tags-input",
+  "name": "philips-emr-ng-tags-input",
   "prettyName": "ngTagsInput",
   "version": "3.2.0",
   "description": "Tags input directive for AngularJS",
